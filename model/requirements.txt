@@ -1,0 +1,11 @@
+numpy
+torch
+torchvision
+matplotlib
+pandas
+tqdm
+torchmetrics
+gdown
+jupyter lab
+kagglehub
+lxml

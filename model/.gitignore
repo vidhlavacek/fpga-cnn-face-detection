@@ -1,0 +1,35 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- Virtualenv ---
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Dataset (WIDER FACE se ne commita — prevelik i licenciran) ---
+dataset/WIDER_train/
+dataset/WIDER_val/
+dataset/wider_face_split/
+# ostavljen je samo tvoj Dataset.py; upute za skidanje dataseta idu u README
+
+# --- Trenirani checkpointi (preveliki / previše ih je) ---
+train/checkpoints/
+*.pt
+*.pth
+
+# --- Rezultati treniranja koji se generiraju ---
+# loss_graf.png je namjerno OSTAVLJEN (rezultat u radu) — ne ignoriramo ga
+
+# --- Razno ---
+struct.txt
+.DS_Store
+Thumbs.db
+*.log

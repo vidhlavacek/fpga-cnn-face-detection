@@ -1,0 +1,7 @@
+/fcos_accelerate/
+
+*.log
+.DS_Store
+Thumbs.db
+
+# ČUVA SE (nije ignorirano): fcos_accelerate.bit, fcos_accelerate.hwh

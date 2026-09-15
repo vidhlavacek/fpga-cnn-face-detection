@@ -1,0 +1,14 @@
+# --- Python cache ---
+__pycache__/
+*.py[cod]
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Runtime artefakti (učitavaju se pri pokretanju, ne trebaju u repou) ---
+loaded.xclbin
+
+# --- Razno ---
+.DS_Store
+Thumbs.db
+

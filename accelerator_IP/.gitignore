@@ -1,0 +1,8 @@
+*.log
+*.jou
+.Xil/
+.DS_Store
+Thumbs.db
+
+# Napomena: ako ne želiš uopće commitati generirani IP (jer se
+# regenerira iz HLS-a), umjesto ovoga stavi jednu liniju:  *
